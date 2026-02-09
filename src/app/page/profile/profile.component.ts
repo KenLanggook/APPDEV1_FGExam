@@ -22,7 +22,7 @@ export class ProfileComponent {
     email: 'ken@email.com',
     age: 22,
     location: 'Philippines',
-    bio: 'IT student of University of Baguio'
+    bio: 'IT Student of University of Baguio'
   };
 
 }
