@@ -13,6 +13,15 @@ TypeScript types, and form handling.
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.19.
 
+## Demonstration
+- Homepage
+- <img width="458" height="330" alt="image" src="https://github.com/user-attachments/assets/56936fc4-7bfd-479f-9e61-5e7b910ad290" />
+- Profile
+- <img width="452" height="389" alt="image" src="https://github.com/user-attachments/assets/a77a3f18-4fe1-4c4b-8be2-6f71930c448c" />
+- Register
+- <img width="908" height="426" alt="image" src="https://github.com/user-attachments/assets/209ecaa2-96d4-4019-ba30-3821d9366524" />
+
+
 ## Development server
 
 To start a local development server, run:
