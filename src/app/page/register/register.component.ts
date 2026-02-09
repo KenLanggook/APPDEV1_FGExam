@@ -19,7 +19,7 @@ export class RegisterComponent {
     age: 0,
     birthDate: '',
     gender: '',
-    account: '',
+    accountType: '',
     country: '',
     agree: false
   };
