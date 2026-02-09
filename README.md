@@ -1,5 +1,15 @@
 # FgExam
 
+## Description
+A single-page Angular application demonstrating routing, components,
+TypeScript types, and form handling.
+
+## Technologies Used
+- Angular 17
+- TypeScript 5
+- Node.js 18
+- Git & GitHub
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.19.
 
 ## Development server
