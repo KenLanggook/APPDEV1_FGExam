@@ -2,24 +2,18 @@
 
 <form #regForm="ngForm" (ngSubmit)="onSubmit()">
 
-  <!-- Text -->
   <input type="text" name="firstName" [(ngModel)]="formData.firstName" placeholder="First Name" required>
   <input type="text" name="lastName" [(ngModel)]="formData.lastName" placeholder="Last Name" required>
   <input type="text" name="username" [(ngModel)]="formData.username" placeholder="Username" required>
 
-  <!-- Email -->
   <input type="email" name="email" [(ngModel)]="formData.email" placeholder="Email" required>
 
-  <!-- Password -->
   <input type="password" name="password" [(ngModel)]="formData.password" placeholder="Password" required>
 
-  <!-- Number -->
   <input type="number" name="age" [(ngModel)]="formData.age" placeholder="Age">
 
-  <!-- Date -->
   <input type="date" name="birthDate" [(ngModel)]="formData.birthDate">
 
-  <!-- Select -->
   <select name="country" [(ngModel)]="formData.country">
     <option value="">Select Country</option>
     <option value="Philippines">Philippines</option>
@@ -27,7 +21,6 @@
     <option value="Japan">Japan</option>
   </select>
 
-  <!-- Radio -->
   <p>Account Type:</p>
   <label>
     <input type="radio" name="account" value="Student" [(ngModel)]="formData.accountType">
@@ -38,7 +31,6 @@
     Admin
   </label>
 
-  <!-- Checkbox -->
   <label>
     <input type="checkbox" name="agree" [(ngModel)]="formData.agree">
     I agree to the terms and conditions
