@@ -6,9 +6,10 @@ TypeScript types, and form handling.
 
 ## Technologies Used
 - Angular 17
-- TypeScript 5
+- TypeScript 15
 - Node.js 18
 - Git & GitHub
+- VSCode
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.19.
 
